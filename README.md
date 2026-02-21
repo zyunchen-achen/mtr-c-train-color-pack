@@ -2,7 +2,7 @@
 
 为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD中的C-Train设计的资源包，增加更多腰线颜色。
 
-![正面展示.png](/assets/正面展示.png)
+![正面展示.png](./assets/正面展示.png)
 
 ## 增添更多颜色：
 
@@ -18,7 +18,7 @@
 
 - 紫色：葡萄紫`#800080`
 
-![多色展示.png](/assets/多色展示.png)
+![多色展示.png](./assets/多色展示.png)
 
 ## 支持多种车型：
 

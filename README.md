@@ -46,7 +46,7 @@
 
 1. Git Clone本仓库
 
-2. 将`resource_pack`​文件夹的内容以下内容打包为ZIP文件并复制到Minecraft的`resourcepacks`目录中：
+2. 将`resource_pack`​文件夹的以下内容打包为ZIP文件并复制到Minecraft的`resourcepacks`目录中：
    
    ```language
    resource_pack/

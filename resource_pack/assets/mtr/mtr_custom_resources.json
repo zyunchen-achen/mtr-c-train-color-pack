@@ -21,26 +21,47 @@
 			"speed_sound_base_id": "c_train",
 			"texture_id": "mtr:custom_directory/c_train_green.png"
 			},
-			"c_train_blue": {
+			"c_train_light_blue": {
+			"name": "C-Train-天空蓝",
+			"color": "00a2e1",
+			"base_train_type": "c_train",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			},
+			"c_train_light_blue_small": {
+			"name": "C-Train-天空蓝(小型)",
+			"color": "00a2e1",
+			"base_train_type": "c_train_small",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			},
+			"c_train_light_blue_mini": {
+			"name": "C-Train-天空蓝(迷你)",
+			"color": "00a2e1",
+			"base_train_type": "c_train_mini",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			},
+			"c_train_dark_blue": {
 			"name": "C-Train-深海蓝",
 			"color": "0000FF",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
 			},
-			"c_train_blue_small": {
+			"c_train_dark_blue_small": {
 			"name": "C-Train-深海蓝(小型)",
 			"color": "0000FF",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
 			},
-			"c_train_blue_mini": {
+			"c_train_dark_blue_mini": {
 			"name": "C-Train-深海蓝(迷你)",
 			"color": "0000FF",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
 			},
 			"c_train_cyan": {
 			"name": "C-Train-薄荷青",
@@ -62,6 +83,27 @@
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
 			"texture_id": "mtr:custom_directory/c_train_cyan.png"
+			},
+			"c_train_pink": {
+			"name": "C-Train-樱花粉",
+			"color": "f8779e",
+			"base_train_type": "c_train",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_pink.png"
+			},
+			"c_train_pink_small": {
+			"name": "C-Train-樱花粉(小型)",
+			"color": "f8779e",
+			"base_train_type": "c_train_small",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_pink.png"
+			},
+			"c_train_pink_mini": {
+			"name": "C-Train-樱花粉(迷你)",
+			"color": "f8779e",
+			"base_train_type": "c_train_mini",
+			"speed_sound_base_id": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_pink.png"
 			},
 			"c_train_orange": {
 			"name": "C-Train-琥珀橙",

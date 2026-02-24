@@ -2,23 +2,25 @@
 
 为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD中的C-Train设计的资源包，增加更多腰线颜色。
 
-![正面展示.png](./assets/正面展示.png)
+![正面展示.png](./assets/弯道展示.png)
 
 ## 增添更多颜色：
 
-在原版C-Train红色腰线的贴图为基础，新增了5种颜色，分别是：
+在原版C-Train红色腰线的贴图为基础，新增了5种颜色：
 
 - 绿色：森林绿`#228B22`
 
-- 蓝色：深海蓝`#0000FF`
+- 深蓝色：深海蓝`#0000FF`
+
+- 浅蓝色：天空蓝`#00a2e1`
 
 - 青色：薄荷青`#00FFFF`
+
+- 粉色：樱花粉`#f8779e`
 
 - 橙色：琥珀橙`#FF8000`
 
 - 紫色：葡萄紫`#800080`
-
-![多色展示.png](./assets/多色展示.png)
 
 ## 支持多种车型：
 
